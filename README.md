@@ -1,3 +1,4 @@
 # 5533289_G.Hrudaya
-![My Certificate](SDLC/SDLC%20Certificate.png)
+![My Certificate](SDLC/Screenshot%202025-07-22%20173628.png)
+
 
